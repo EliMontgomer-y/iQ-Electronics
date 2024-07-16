@@ -9,5 +9,13 @@ html{
 }
 
 header{
-    color: rgb(255, 255, 255);
+  display: flex;
+  color: rgb(255, 255, 255);
+}
+
+.padding8sourcecode{
+  padding: 8px;
+  font-family: "Source Code Pro", monospace;
+  font-style: normal;
+  font-optical-sizing: auto;
 }
